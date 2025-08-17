@@ -138,3 +138,5 @@ with open("cat_model.pkl", "wb") as f:
 print("✅ Model saved as cat_model.pkl")
 
 print(classes)
+print(train_set_y)
+print(test_set_y)
