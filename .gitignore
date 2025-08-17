@@ -1,0 +1,7 @@
+# Ignore datasets
+*.csv
+*.h5
+*.xlsx
+*.zip
+dataset/
+data/
